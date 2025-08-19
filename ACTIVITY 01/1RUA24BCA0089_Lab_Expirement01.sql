@@ -1,7 +1,7 @@
 
 -- Lab Experiment 01: Implementation of DDL Commands in SQL
--- STUDENT NAME: Riyan Shrestha
--- USN: 1RUA24BCA0075
+-- STUDENT NAME: Swaroop R
+-- USN: 1RUA24BCA0089
 -- SECTION: BCA
 
 SELECT USER(), 
